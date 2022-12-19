@@ -35,9 +35,10 @@
   <a href="https://www.linkedin.com/in/mathias-recktenvald-58742825a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/20815136/mathbvb" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/mathias_recktenvald/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mr.mathiasbvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  ![Snake animation](https://github.com/Mathbvb/Mathbvb/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href = "mailto:mr.mathiasbvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=r9chctuwj6kietv1g8u3f4jwr) 
+##
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r9chctuwj6kietv1g8u3f4jwr) 
+  
