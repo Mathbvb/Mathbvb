@@ -38,7 +38,7 @@
   <a href = "mailto:mr.mathiasbvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
 </div>
 
-##
+
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r9chctuwj6kietv1g8u3f4jwr) 
   
