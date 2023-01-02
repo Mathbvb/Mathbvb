@@ -2,7 +2,6 @@
 
 
 - 🎓 Computer technician by IFFar - Santo Augusto
-- 📕 I want to study Computer Science
 - 🌱 I’m currently learning many things
 - 📫 How to reach me: through my linkedin
 - 😄 Pronouns: he/him/ele/dele
