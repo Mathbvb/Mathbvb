@@ -2,8 +2,8 @@
 
 
 - 🎓 Computer technician by IFFar - Santo Augusto
-- 🌱 I’m currently learning many things
-- 📫 How to reach me: through my linkedin
+- 🌱 Currently studying Computer Science at UFSM
+- 📫 Reach me through my linkedin
 - 😄 Pronouns: he/him/ele/dele
 
 <div align="center">
