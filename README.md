@@ -25,7 +25,6 @@
   <img align="center" alt="Math-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Math-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Math-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="right" alt="Mathc-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/4ilFRqgbzbx4c/200.gif">
 </div>
 
 ##
