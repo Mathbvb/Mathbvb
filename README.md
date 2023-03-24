@@ -13,7 +13,7 @@
 </div>
   
   </div>
-<div style="display: inline_block, text-align:center"><br>
+<div style="display: inline_block, align:center"><br>
   <img align="center" alt="Math-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Math-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Math-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
