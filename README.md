@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him/ele/dele
 
 <p>I was first introduced to programming in my high school and I have been doing it since then. Currently just starting to learn, I have already experience with
-Java, PHP, MySQL, HTML, CSS, Bootstrap and JS, but I'm always trying to learn something new! <br><br> Currently studying Laravel.</p>
+Java, PHP, MySQL, HTML, CSS, Bootstrap and JS, but I'm always trying to learn something new! <br><br> Currently studying Laravel and Python. <br><br></p>
 
 <div align="center">
   <a href="https://github.com/Mathbvb">
