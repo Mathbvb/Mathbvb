@@ -1,10 +1,15 @@
-## Hello there 🧔
+# 💻 Mathias Recktenvald
+
+## Hello there 
 
 
 - 🎓 Computer technician by IFFar - Santo Augusto
-- 🌱 Currently studying Computer Science at UFSM
+- 🌱 Currently studying Computer Science - UFSM
 - 📫 Reach me through my linkedin
 - 😄 Pronouns: he/him/ele/dele
+
+<p>I was first introduced to programming in my high school and I have been doing it since then. Currently just starting to learn, I have already experience with
+Java, PHP, MySQL, HTML, CSS, Bootstrap and JS, but I'm always trying to learn something new! </p>
 
 <div align="center">
   <a href="https://github.com/Mathbvb">
@@ -35,8 +40,4 @@
   <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/mathias_recktenvald/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mr.mathiasbvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
 </div>
-
-
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=r9chctuwj6kietv1g8u3f4jwr) 
   
