@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him/ele/dele
 
 <p>I was first introduced to programming in my high school and I have been doing it since then. Currently just starting to learn, I have already experience with
-Java, PHP, MySQL, HTML, CSS, Bootstrap and JS, but I'm always trying to learn something new! </p>
+Java, PHP, MySQL, HTML, CSS, Bootstrap and JS, but I'm always trying to learn something new! <br><br> Currently studying Laravel.</p>
 
 <div align="center">
   <a href="https://github.com/Mathbvb">
@@ -37,7 +37,7 @@ Java, PHP, MySQL, HTML, CSS, Bootstrap and JS, but I'm always trying to learn so
 <div>
   <a href="https://www.linkedin.com/in/mathias-recktenvald-58742825a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://stackoverflow.com/users/20815136/mathbvb" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/mathias_recktenvald/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mr.mathiasbvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
+  <a href="https://www.instagram.com/mathias_recktenvald/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     
 </div>
   
