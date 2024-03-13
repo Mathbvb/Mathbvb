@@ -5,6 +5,7 @@
 - Currently studying Computer Science - UFSM
 - Feel free to contact me
 - Pronouns: he/him/ele/dele
+- Link to my <a href="https://drive.google.com/file/d/14niVNp-HfazRbeUoamo8-y3ueFBN7uuS/view?usp=sharing">curriculum</a>
 
 <p>I was first introduced to programming in my high school and I have been doing it since then. Although I'm just starting to learn, I already have experience with Java, PHP, MySQL, HTML, CSS, Bootstrap, and JS.
   I'm always eager to learn something new! <br><br></p>
@@ -34,7 +35,3 @@
 </div>
 
 <hr>
-
-<div align="center">
-  Link to my <a href="https://drive.google.com/file/d/14niVNp-HfazRbeUoamo8-y3ueFBN7uuS/view?usp=sharing">curriculum</a>
-</div>
