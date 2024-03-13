@@ -37,7 +37,5 @@
 <hr>
 
 <div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=r9chctuwj6kietv1g8u3f4jwr">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=r9chctuwj6kietv1g8u3f4jwr" alt="Data Card for Spotify">
-  </a>
+  Link to my <a href="https://drive.google.com/file/d/14niVNp-HfazRbeUoamo8-y3ueFBN7uuS/view?usp=sharing">curriculum</a>
 </div>
