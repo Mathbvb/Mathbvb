@@ -6,7 +6,7 @@
 - Computer technician by IFFar - Santo Augusto <br>
 - Currently studying Computer Science - UFSM <br>
 - Feel free to contact me <br>
-- Link to my <a href="https://drive.google.com/file/d/14niVNp-HfazRbeUoamo8-y3ueFBN7uuS/view?usp=sharing">curriculum</a> <br><br>
+- Link to my <a href="https://drive.google.com/file/d/1aGmIdH3B4dxAA5jltZXjYGVo01eoKK7e/view?usp=sharing">curriculum</a> <br><br>
 
 <p>I was first introduced to programming in my high school and I have been doing it since then. Although it's not been long since I started to learn, I already have experience with Java, Python, MySQL, JS, PHP, HTML and CSS.
   I'm always eager to learn something new! <br><br></p>
