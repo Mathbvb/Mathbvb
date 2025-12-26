@@ -27,11 +27,6 @@
 </details>
 <br><br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathbvb&layout=compact&theme=dracula&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathbvb&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-</div>
-
 <hr>
 
 <div align="center">
